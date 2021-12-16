@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fb7fc791-f8a9-45d3-84a3-cb564a7347c7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/navigations/Navegacion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/screens/Ayuda.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/screens/Cuenta.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/screens/Masleido.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/screens/Masvendido.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/screens/Recomendaciones.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/screens/account/Invitados.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/screens/account/Looged.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/utils/firebase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="22HnzWmsbYDFKz9nHTbmQuLUo2E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb7fc791-f8a9-45d3-84a3-cb564a7347c7" name="Default Changelist" comment="" />
+      <created>1639503644775</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639503644775</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="444" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1639510313406">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="444" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1639510313406" />
+  </component>
+</project>
